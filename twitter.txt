@@ -1,4 +1,4 @@
-consumerKey CMhxcVA0yOeWnhAiLEkusmkuj
-consumerSecret M23qsxmFbU9yS80GhlVLujPFNNpTc4tllIg81WXij4eZBFJGm9
-accessToken 347059917-iKQdm4SP0Xa1u1KqWem0cIMWEGj9sL0z9BYJUE0n
-accessTokenSecret aPEmOqisFFJ60OBB0fef1hzt426pBhPnTABGBLWpVI5A5
+consumerKey your-consumerKey
+consumerSecret your-consumerSecret
+accessToken your-accessToken
+accessTokenSecret your-accessTokenSecret
